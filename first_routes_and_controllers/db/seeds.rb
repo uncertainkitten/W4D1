@@ -24,7 +24,7 @@ artworks = Artwork.create([
 
   { title: 'Rotator ANNIHILATION', image_url: 'princeton.edu/chad_a_mcmasters/portfolio/rotator_annihilation', artist_id: users[4].id},
 
-  { title: 'New Software :)', image_url: 'trollnet.com/malware_images/troian_equestarianist', artist_id: users[2].id
+  { title: 'New Software :)', image_url: 'trollnet.com/malware_images/troian_equestarianist', artist_id: users[2].id}
   ])
 
   artwork_shares = ArtworkShare.create([
